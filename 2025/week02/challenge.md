@@ -1,6 +1,6 @@
 # Trace Labs Weekly OSINT Challenge - Week 02
 
-Welcome to Week 03 of the **Trace Labs Weekly OSINT Challenge!**  
+Welcome to Week 02 of the **Trace Labs Weekly OSINT Challenge!**  
 This week’s theme: **GEOLOCATION**
 
 Your task is to analyze a publicly available image and determine **where it was taken** using open-source intelligence techniques.

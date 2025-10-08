@@ -33,33 +33,33 @@ To build a **transparent and ethical learning environment** where the community 
 Each write-up should include the following sections:
 
 ```markdown
-# 🧠 Trace Labs Weekly Challenge - Week 01
+# Trace Labs Weekly Challenge - Week 01
 
-## 🕵️ Challenge Summary
+## Challenge Summary
 Briefly restate the sanitized challenge.  
 *(Do not paste the exact Discord text.)*
 
-## 🧭 Methodology
+## Methodology
 Describe your reasoning, steps, and tools used.  
 Avoid including any personal data or non-public URLs.
 
-## 🔍 Verification
+## Verification
 How did you confirm your final answer?  
 Explain the reasoning, triangulation, or metadata used.
 
-## 💡 Answer
+## Answer
 <details>
   <summary>Click to reveal the redacted answer</summary>
 
-**Answer:** 🛰️ Warsaw, Poland  
+**Answer:** Warsaw, Poland  
 **Coordinates:** 52.2297, 21.0122  
 **Verification:** Matched street signage pattern + Google Street View.
 
 </details>
-
+```
 ## 🧩 Lessons Learned
 Reflect on what worked, what didn’t, and which tools were most effective.
-```
+
 
 ## Review Process
 
@@ -70,7 +70,7 @@ All sensitive data is properly redacted
 
 Methodology is clearly explained
 
-The answer section uses <details> spoiler formatting
+The answer section uses <details> spoiler formatting </details>
 
 Community reviewers and Trace Labs staff will help maintain consistency.
 

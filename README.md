@@ -57,7 +57,7 @@ Explain the reasoning, triangulation, or metadata used.
 
 </details>
 ```
-## 🧩 Lessons Learned
+## Lessons Learned
 Reflect on what worked, what didn’t, and which tools were most effective.
 
 

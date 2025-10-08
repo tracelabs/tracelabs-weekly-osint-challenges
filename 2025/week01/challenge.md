@@ -1,4 +1,4 @@
-# Trace Labs Weekly OSINT Challenge - Week 03
+# Trace Labs Weekly OSINT Challenge - Week 01
 
 Welcome to Week 03 of the **Trace Labs Weekly OSINT Challenge!**  
 This week’s theme: **GEOLOCATION**
@@ -21,7 +21,7 @@ Please tell us the name of this location
 
 ## Location Format:
 National Monument,City/Town, State or Region (if applicable), Country
-Example: Mount Fuji, Central Honshu, Japan
+## Example: Mount Fuji, Central Honshu, Japan
 
 
 

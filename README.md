@@ -92,7 +92,7 @@ Each challenge and write-up becomes an educational reference for newcomers and v
 
 ## Community & Discussion
 
-Join the conversation in our Discord under #weekly-osint-challenges.
+Join the conversation in [our Discord under #weekly-osint-challenges](https://discord.gg/yaFfMxtb).
 Collaborate, share tools, and compare reasoning.
 
 Each challenge folder may also have a linked GitHub Discussion for participants to post partial findings, hints, or follow-ups.
